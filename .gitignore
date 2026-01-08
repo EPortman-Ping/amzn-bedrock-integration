@@ -1,0 +1,13 @@
+.venv/
+**/__pycache__/
+.DS_Store
+.github/copilot-instructions.md
+
+PingOne/.env
+PingOne/.agentcore.json
+PingOne/.bedrock_agentcore.yaml
+PingOne/Dockerfile
+PingOne/.dockerignore
+PingOne/simple_agent.py
+PingOne/lambda_function.py
+PingOne/lambda_function.zip
