@@ -1,0 +1,8 @@
+.venv/
+.bedrock_agentcore.yaml
+Dockerfile
+.dockerignore
+simple_agent.py
+lambda_function.py
+lambda_function.zip
+.env
